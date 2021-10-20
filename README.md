@@ -1,2 +1,1 @@
-# geocoding
-Geo coding mapbox
+# React template
